@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace chatty;
 
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
